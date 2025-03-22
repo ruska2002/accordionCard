@@ -1,4 +1,3 @@
-import "./moduleCard.css";
 import Woman from "../../public/images/back2.svg";
 import Accordion from "./Accordion";
 import styled from "styled-components";
