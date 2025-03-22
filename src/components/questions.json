@@ -1,0 +1,27 @@
+[
+  {
+    "id": 1,
+    "text": "How many team members can I invite?",
+    "minitext": "The number of team members you can invite depends on your plan. Some plans offer unlimited invites, while others have a limit. Check your plan details for specifics."
+  },
+  {
+    "id": 2,
+    "text": "What is the maximum file upload size?",
+    "minitext": "No more than 2GB. However, all files must fit within your allotted storage space."
+  },
+  {
+    "id": 3,
+    "text": "How do I reset my password?",
+    "minitext": "You can reset your password by going to the login page and clicking on 'Forgot Password.' Follow the instructions in the email sent to your registered email address."
+  },
+  {
+    "id": 4,
+    "text": "Can I cancel my subscription?",
+    "minitext": "Yes, you can cancel your subscription at any time. Go to your account settings, navigate to the billing section, and select 'Cancel Subscription.' Depending on your plan, you may retain access until the end of the billing cycle."
+  },
+  {
+    "id": 5,
+    "text": "Do you provide additional support?",
+    "minitext": "Yes! We offer additional support through email, live chat, and phone (depending on your plan). Premium plans may include priority support."
+  }
+]

@@ -1,0 +1,20 @@
+/* @import url("https://fonts.googleapis.com/css2?family=Josefin+Sans:ital,wght@0,100..700;1,100..700&family=Kumbh+Sans:wght@100..900&display=swap");
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+body {
+  background-image: linear-gradient(
+    6deg,
+    #6463e7,
+    #b068e9
+  );
+}
+@media screen and (max-width: 600px) {
+  #root {
+    padding: 1rem;
+    width: 100%;
+  }
+} */
